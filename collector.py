@@ -21,7 +21,7 @@ def read_page(letter):
     }
 
     req = requests.get(url.encode("utf-8"), headers=headers)
-    content = req.text
+    content = req.content.decode("utf-8")
 
     words = re.findall("<li><a[^>]*>([^<]+)<\/a>", content, flags=0)
     words.pop()
