@@ -4,4 +4,4 @@ This list is created and can be maintained via [VikiSözlük](http://tr.wiktiona
 
 ## Statistics
 
-- total number of words/phrases: 764901
+- total number of words/phrases: 63837
