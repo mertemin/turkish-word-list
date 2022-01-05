@@ -1,4 +1,4 @@
-ab
+a
 aba
 aba güreşi
 abacı
@@ -44,11 +44,9 @@ abat etmek
 abat eylemek
 abat olmak
 abat
-Abaza
 Abaza peyniri
 Abazaca
 abazan
-abazanlık
 Abbas
 abd
 abdal
@@ -263,6 +261,7 @@ acun
 acur
 acuze
 acyo
+acyocu
 aç
 aç acına
 aç biilaç
@@ -4914,12 +4913,12 @@ bağımlamak
 bağımlaşma
 bağımlaşmak
 bağımlı
-bağımlı sıralı cümle
+bağımlı sıralı  cümle
 bağımlılık
 bağımsız
-bağımsız milletvekili
+bağımsız  milletvekili
 bağımsız bölüm
-bağımsız sıralı cümle
+bağımsız sıralı  cümle
 bağımsızlaşma
 bağımsızlaşmak
 bağımsızlaştırma
@@ -5857,7 +5856,7 @@ başhemşire
 başhemşirelik
 başhostes
 başhosteslik
-başı yumuşak
+başı  yumuşak
 başı açık
 başı bağlı
 başı bütün
@@ -6314,7 +6313,7 @@ beceriksizlik
 becerme
 becermek
 becet
-Beç tavuğu
+beç tavuğu
 Beçene
 bed
 bedahet
@@ -6861,7 +6860,7 @@ beslengi
 beslenilme
 beslenilmek
 beslenme
-beslenme bozukluğu
+beslenme  bozukluğu
 beslenme çantası
 beslenme eğitimcisi
 beslenme eğitimi
@@ -7059,7 +7058,7 @@ beyin gücü
 beyin jimnastiği
 beyin kanaması
 beyin karıncıkları
-beyin omurilik sıvısı
+beyin omurilik  sıvısı
 beyin takımı
 beyin üçgeni
 beyin zarı
@@ -7823,7 +7822,7 @@ bit yeniği
 bitap
 bitaraf
 bitaraflık
-bitek
+biter
 bitelge
 bitevi
 biteviye
@@ -9384,9 +9383,7 @@ büzülüş
 büzüşme
 büzüşmek
 büzüşük
-caba
 cabadan
-cacık
 cadaloz
 cadalozlaşma
 cadalozlaşmak
@@ -9542,8 +9539,8 @@ canip
 caniyane
 cankulağı
 cankurtaran
-cankurtaran düdüğü
-cankurtaran sandalı
+cankurtaran  düdüğü
+cankurtaran  sandalı
 cankurtaran çanı
 cankurtaran gemisi
 cankurtaran kulübesi
@@ -9922,7 +9919,7 @@ cevherli
 cevhersiz
 cevir
 ceviz
-ceviz içi
+ceviz  içi
 cevizgiller
 cevizî
 cevizimsi
@@ -10360,7 +10357,7 @@ cumhurbaşkanı
 cumhurbaşkanlığı
 cumhurca
 cumhuriyet
-Cumhuriyet Bayramı
+Cumhuriyet  Bayramı
 cumhuriyetçi
 cumhuriyetçilik
 cumhuriyetperver
@@ -11241,7 +11238,6 @@ cüzzamlı
 Çeçen
 Çeçence
 çedene
-çedik
 çeğmel
 çeğmellenme
 çeğmellenmek
@@ -12337,6 +12333,7 @@ cüzzamlı
 çizdirmek
 çizecek
 çizelge
+çizer
 çizge
 çizgi
 çizgi film
@@ -14437,6 +14434,7 @@ devlet bakanı
 devlet bankası
 devlet başkanı
 devlet düşkünü
+devlet erkanı
 devlet kapısı
 devlet kuşu
 devlet nişanı
@@ -16747,7 +16745,7 @@ edebiyatçı
 edebiyatçılık
 edebiyatsever
 edebiyatseverlik
-edep etmek
+edep  etmek
 edep yeri
 edep
 edepleniş
@@ -23202,7 +23200,7 @@ hafifletici sebep
 hafifletme
 hafifletmek
 hafifleyiş
-hafiflik etmek
+hafiflik  etmek
 hafiflik
 hafifmeşrep
 hafifmeşreplik
@@ -23240,7 +23238,7 @@ hain
 haince
 hainleşme
 hainleşmek
-hainlik etmek
+hainlik  etmek
 hainlik
 haiz
 haje
@@ -23452,7 +23450,7 @@ hâlsizleşme
 hâlsizleşmek
 hâlsizlik
 halt
-halt etmek
+halt  etmek
 halter
 halterci
 haltercilik
@@ -24140,7 +24138,7 @@ havra
 Havran
 Havsa
 havsala
-havsalası dar
+havsalası  dar
 havsalası geniş
 havuç suyu
 havuç
@@ -25657,7 +25655,6 @@ Ilıca
 ıltar
 ımızganma
 ımızganmak
-ıncalız
 ıpıl ıpıl
 ıpıslak
 ıpıssız
@@ -26491,11 +26488,11 @@ ihzari
 ika
 ikame
 ikame mal
-ikamet
-ikamet etmek
-ikametgâh
-ikametgâh ilmühaberi
-ikametgâh kâğıdı
+ikâmet
+ikâmet etmek
+ikâmetgâh
+ikâmetgâh ilmühaberi
+ikâmetgâh kâğıdı
 ikaz
 ikaz lambası
 ikaz yeleği
@@ -26949,7 +26946,7 @@ iman tahtası
 imaniye
 imanlı
 imansız
-imansız peynir
+imansız  peynir
 imansızlık
 imar
 imarcı
@@ -29267,7 +29264,7 @@ kalgıma
 kalgımak
 kalhane
 kalıcı
-kalıcı ruj
+kalıcı  ruj
 kalıcı makyaj
 kalıcılık
 kalıç
@@ -30667,7 +30664,7 @@ karşılaştırma derecesi
 karşılaştırmacı
 karşılaştırmak
 karşılaştırmalı
-karşılaştırmalı edebiyat
+karşılaştırmalı  edebiyat
 karşılaştırmalı dil bilgisi
 karşılaştırmalı dil bilimi
 karşılayıcı
@@ -31435,7 +31432,7 @@ kaymakçı
 kaymaklanma
 kaymaklanmak
 kaymaklı
-kaymaklı dondurma
+kaymaklı  dondurma
 kayme
 kaymelik
 kaynaç taşı
@@ -32397,7 +32394,7 @@ kılıflamak
 kılıflı
 kılıfsız
 kılık kıyafet
-kılık kıyafet düşkünü
+kılık kıyafet  düşkünü
 kılık
 kılıklı
 kılıklı kıyafetli
@@ -34165,7 +34162,7 @@ konuşulma
 konuşulmak
 konuşumluk
 konut
-konut dokunulmazlığı
+konut  dokunulmazlığı
 konut belgesi
 konut fonu
 konut kredisi
@@ -35995,7 +35992,7 @@ küçümsenmek
 küçümseyiş
 küçürek
 küf
-küf kokusu
+küf  kokusu
 küf yeşili
 küfe
 küfeci
@@ -41126,8 +41123,8 @@ nakarat
 nakaratlı
 nakaratsız
 nakavt
-nakavt etmek
-nakavt olmak
+nakavt  etmek
+nakavt  olmak
 nakden
 nakdî
 nakdî ceza
@@ -42946,7 +42943,7 @@ Osmangazi
 Osmani
 Osmaniye
 Osmanlı
-Osmanlı tokadı
+Osmanlı  tokadı
 Osmanlı kadını
 Osmanlı Türkçesi
 Osmanlıca
@@ -43835,7 +43832,7 @@ ozuga
 örnekseme
 örneksemek
 örs
-örs kemiği
+örs  kemiği
 örseleme
 örselemek
 örseleniş
@@ -45468,7 +45465,7 @@ pıyrım pıyrım
 pi sayısı
 pianta
 piç
-piç etmek
+piç 
 piç kurusu
 piç olmak
 piçleşme
@@ -46680,7 +46677,7 @@ ratıp
 raunt
 ravent
 ray
-rayiç fiyat
+rayiç  fiyat
 rayiç bedel
 rayiç
 rayiha
@@ -47503,7 +47500,7 @@ sadaklı
 sadakor
 sadaret
 sade
-sade birimler bölüğü
+sade birimler  bölüğü
 sade kahve
 sade kek
 sadece
@@ -49404,7 +49401,7 @@ serserileşme
 serserileşmek
 serserilik
 sert
-sert ünsüz
+sert  ünsüz
 sert buğday
 sert damak
 sert doku
@@ -50844,7 +50841,7 @@ soğuk şaka
 soğuk
 soğukça
 soğukkanlı
-soğukkanlı hayvanlar
+soğukkanlı  hayvanlar
 soğukkanlılık
 soğuklama
 soğuklamak
@@ -51007,7 +51004,7 @@ somurtuş
 somurulma
 somurulmak
 somut
-somut isim
+somut  isim
 somutlanma
 somutlanmak
 somutlaşma
@@ -51867,7 +51864,7 @@ sungu
 sungur
 Sungurlu
 suni
-suni ipek
+suni  ipek
 suni böbrek
 suni çayır
 suni gübre
@@ -53523,7 +53520,7 @@ taaffün
 taahhüt etmek
 taahhüt
 taahhütlü
-taahhütlü mektup
+taahhütlü  mektup
 taahhütname
 taalluk
 taalluk etmek
@@ -54410,7 +54407,7 @@ tarlatan
 tarpan
 tarsin
 Tarsus
-tart eylemek
+tart  eylemek
 tart
 tart etmek
 tart suçu
@@ -58468,7 +58465,7 @@ uz
 uz iletişim
 uza devim
 uza duyum
-uzak benzeşmezlik
+uzak  benzeşmezlik
 uzak akraba
 uzak benzeşme
 Uzak Doğu
@@ -59880,7 +59877,7 @@ vusul
 vuzuh
 vuzuhsuz
 vuzuhsuzluk
-vücut ısısı
+vücut  ısısı
 vücut
 vücutça
 vücutlu
@@ -62474,7 +62471,7 @@ yontmak
 yontu
 yontucu
 yontuculuk
-yontuk düz
+yontukdüz
 yontuk
 yontulma
 yontulmak
